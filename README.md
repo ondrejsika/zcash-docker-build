@@ -5,6 +5,14 @@
 
 ## Build zcash
 
+Build master
+
+```
+./build.sh
+```
+
+Build tag or branch
+
 ```
 ./build.sh v1.0.0-beta1
 ```
