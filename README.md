@@ -14,6 +14,12 @@ Build master
 Build tag or branch
 
 ```
-./build.sh v1.0.0-beta1
+./build.sh v1.0.0
+```
+
+and specify the repository
+
+```
+./build.sh master https://github.com/ondrejsika/zcash.git
 ```
 
